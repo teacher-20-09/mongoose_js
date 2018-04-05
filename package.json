@@ -1,0 +1,26 @@
+{
+  "name": "name",
+  "version": "1.0.0",
+  "description": "desk",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teacher-20-09/mongoose_js.git"
+  },
+  "keywords": [
+    "keyw"
+  ],
+  "author": "roma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teacher-20-09/mongoose_js/issues"
+  },
+  "homepage": "https://github.com/teacher-20-09/mongoose_js#readme",
+  "devDependencies": {
+    "express": "^4.16.3"
+  }
+}
